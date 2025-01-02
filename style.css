@@ -119,9 +119,11 @@ h2{
       "box3  box3" 
     ;
     row-gap: 2rem;
-    align-items: center;
     width: 85%;
-    margin: 3rem auto ;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
   }
   .top{
     grid-area: box1;
